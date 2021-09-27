@@ -1,7 +1,7 @@
 # SuperHERO
 
 ## App Features.
-Simple Superheros information app with animations and local database.
+Simple Superheros information app with animations and local database. 
 
 ## App Information
 
