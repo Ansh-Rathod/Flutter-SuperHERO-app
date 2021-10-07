@@ -15,12 +15,12 @@ Simple Superheros information app with animations and local database.
 
 
 <p align="center">
-<img src="scrnshts\20210814_153532.gif" width="30%">
-<img src="scrnshts\Screenshot_20210814-154107.jpg" width="30%">
-<img src="scrnshts\Screenshot_20210814-154115.jpg" width="30%">
-<img src="scrnshts\Screenshot_20210814-154138.jpg" width="30%">
-<img src="scrnshts\Screenshot_20210814-154148.jpg" width="30%">
-<img src="scrnshts\Screenshot_20210814-154201.jpg" width="30%">
+<img src="scrnshts/20210814_153532.gif" width="30%">
+<img src="scrnshts/Screenshot_20210814-154107.jpg" width="30%">
+<img src="scrnshts/Screenshot_20210814-154115.jpg" width="30%">
+<img src="scrnshts/Screenshot_20210814-154138.jpg" width="30%">
+<img src="scrnshts/Screenshot_20210814-154148.jpg" width="30%">
+<img src="scrnshts/Screenshot_20210814-154201.jpg" width="30%">
 
 
 </p>
